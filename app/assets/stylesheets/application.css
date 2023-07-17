@@ -13,12 +13,7 @@
  *= require_tree .
  *= require_self
  */
-/* 
- * 中略 
- *= require_tree .
- *= require_self
- */
-
+ 
  * {
   box-sizing: border-box;
 }
